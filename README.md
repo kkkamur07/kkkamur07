@@ -15,7 +15,7 @@ More on [my website](https://kkrrish.tech/).
 
 ## What I'm working on
 
-1. **Active learning** (Prof. Schetze): comparing uncertainty measures to choose training data so models learn more from less.
+1. **Active learning** (Prof. Schetze): Trying to make OPD ( on policy distillation ) efficient, 
 2. **Indic encoders**: ModernBERT-style models for **Indian languages**. Distilled Hindi checkpoints on [Hugging Face](https://huggingface.co/kkkamur07); extending the line, aiming to finish by June.
 3. **Greek Foundation**: end-to-end ML pipeline to transcribe **Byzantine Greek** manuscripts (segmentation, extraction, deployment), along the lines of eScriptorium for LMU.
 
